@@ -2,11 +2,11 @@
 
 ## [文章](https://zong4.github.io/2022/05/22/SpaceCollider/)
 
+## [视频](https://zong4.github.io/gallery/media/#Space-Collider-Demo)
+
 ## [图片](https://zong4.github.io/gallery/picture/#Space-Collider)
 
 <img src="https://zong4.github.io/gallery/picture/source/Game.png" width="700px" title="游戏界面">
-
-## [视频](https://zong4.github.io/gallery/media/#Space-Collider-Demo)
 
 # 背景
 
@@ -25,3 +25,9 @@
 - 人物实现分机控制（一台电脑一个人物，目前房间最多支持4人），可以实现多段跳（自定义），有完善的行走跳跃等动画；
 - 子弹射击爆炸有相应的音效和动画。
 - 陨石以及玩家射出的子弹的生命周期均与房间的相同（为主机创建）；
+
+
+# TODO List
+
+- [x] s
+- [ ] dd

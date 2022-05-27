@@ -1,4 +1,10 @@
-# [文章](https://zong4.top/2022/05/22/SpaceCollider/)
+# [文章](https://zong4.github.io/2022/05/22/SpaceCollider/)
+
+# 视频
+
+<video src="https://zong4.github.io/gallery/media/source/SpaceCollider.mp4" width="700px" controls="controls"></video>
+
+# [图片](https://zong4.github.io/2022/05/22/SpaceCollider/)
 
 # 背景
 

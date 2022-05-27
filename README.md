@@ -1,6 +1,10 @@
-# [文章](https://zong4.github.io/2022/05/22/SpaceCollider/)
+# 相关资料
 
-<img src="https://zong4.top/gallery/picture/source/Game.png" width="700px" title="游戏界面">
+## [文章](https://zong4.github.io/2022/05/22/SpaceCollider/)
+
+## 图片
+
+<img src="https://zong4.github.io/gallery/picture/source/Game.png" width="700px" title="游戏界面">
 
 # 视频
 
